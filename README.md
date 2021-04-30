@@ -21,3 +21,7 @@ See [README.md](./200/README.md)
 
 ## 300 - Install Weave Scope
 See [README.md](./300/README.md)
+
+## 400 - Views Metrics using Weave Scope
+See [README.md](./400/README.md)
+
