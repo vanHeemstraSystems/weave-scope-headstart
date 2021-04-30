@@ -21,7 +21,7 @@ Launch Weave Scope:
 
 You can now access Weave Scope on:
 
-```http://[SERVER-IP]:4040
+```http://[SERVER-IP]:4040```
 
 The dashboard will show the containers running on your host and there are several other options to manage and/or monitor your host:
 
