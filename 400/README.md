@@ -12,6 +12,7 @@ Views in Scope is more like high-level filters,they are categorized into: Servic
 ![0_E9XDfoHabvGOoru_](https://user-images.githubusercontent.com/12828104/116696621-71a01c00-a9c2-11eb-9a1f-b214315dbe1c.png)
 
 ## 400 - Detailed App View
+![0_yrO76UAWEqxOO3nU](https://user-images.githubusercontent.com/12828104/116696726-8f6d8100-a9c2-11eb-9312-39b8eb6d9ccc.png)
 
 ## 500 - Table View
 
