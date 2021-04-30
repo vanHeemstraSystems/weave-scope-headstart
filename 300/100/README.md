@@ -25,3 +25,12 @@ You can now access Weave Scope on:
 
 The dashboard will show the containers running on your host and there are several other options to manage and/or monitor your host:
 
+[ image goes here ]
+
+To manage your containers, click one one of them, you will be presented with an interface where you can view the metrics of the container and also do various operations on the container such as start,stop, pause etc. You can also execute the container’s shell as shown below:
+
+[ image goes here ]
+
+General metrics are available at the Table tab:
+
+[ image goes here ]
