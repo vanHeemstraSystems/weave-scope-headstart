@@ -15,7 +15,7 @@ Views in Scope is more like high-level filters,they are categorized into: Servic
 ![0_yrO76UAWEqxOO3nU](https://user-images.githubusercontent.com/12828104/116696726-8f6d8100-a9c2-11eb-9312-39b8eb6d9ccc.png)
 
 ## 500 - Table View
-
+![0_IN2VgtGPUJqdeMXs](https://user-images.githubusercontent.com/12828104/116696794-a7dd9b80-a9c2-11eb-9a08-fbe7cc316e06.png)
 
 Apart from the above views,custom metrics can also be generated using plugins.
 
